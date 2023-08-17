@@ -15,3 +15,5 @@ Display System Requirements
 Final Display
 * Contract Info (ticker, DTE, Strike Price, IV, Bid/Ask, Greeks)
 * Calculated weekly/monthly/daily income by full porting CSP.  
+
+**Currenly a work in progress**
